@@ -9,3 +9,15 @@ h1{
   color:#bafff7 ;
 
 }
+p {
+  border: 2px solid powderblue;
+}
+
+div {
+  width: 70px;
+  height: 300px;
+  border: 1px solid #c3c3c3;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+}
