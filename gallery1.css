@@ -26,5 +26,5 @@ div {
 }
 
 img:hover {
-  opacity: 1.0;
+  opacity: 1.0; border-radius: 8px; -webkit-box-reflect: below;
 }
