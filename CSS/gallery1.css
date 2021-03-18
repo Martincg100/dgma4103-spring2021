@@ -1,8 +1,10 @@
 body{
-  font-family: Verdana;
+  font-family: Verdana; font-variant: "bold";
   color:#2fffe7; background-color: #008373 ;
 }
-
+div.a {
+  text-indent: 50px;
+}
 
 h1{
 
@@ -37,4 +39,4 @@ div.gallery {
 a{font-family: Verdana;
 color:#2fffe7; background-color: #008373 ;}
 
-  
+grab {cursor: -webkit-grab; cursor: grab;}

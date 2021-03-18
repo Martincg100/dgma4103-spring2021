@@ -28,11 +28,7 @@ img:hover {
   opacity: 0.5; border-radius: 8px;
 }
 
-grad1 {
-  height: 200px;
-  background-color: red; /* For browsers that do not support gradients */
-  background-image: linear-gradient(blue, green);
-}
+
 
 div {
   width: 300px;
@@ -46,35 +42,3 @@ div#myDiv {
 transform: skew(20deg,10deg); /* Standard syntax */}
 
 a{font-family: Verdana; text-shadow: purple; background-color: lightpink; color: blue }
-  <table>
-    <tr>
-
-
-      <td> <a href="new1month.html"><img src="thumbnails/1.jpg" alt="photo 1 thumbnail" width="115"></a> </td>
-
-      <td> <a href="new2month.html"><img src="thumbnails/2.jpg" alt="photo 2 thumbnail"width="115"></a> </td>
-
-      <td> <a href="new3month.html"><img src="thumbnails/3.jpg" alt="photo 3 thumbnail"width="115"></a> </td>
-
-      <td> <a href="new4month.html"><img src="thumbnails/4.jpg" alt="photo 4 thumbnail"width="115"></a> </td>
-
-      <td> <a href="new5month.html"><img src="thumbnails/5.jpg" alt="photo 5 thumbnail"width="115"></a> </td>
-
-      <td> <a href="new6month.html"><img src="thumbnails/6.jpg" alt="photo 6 thumbnail"width="115"></a></td>
-    </tr>
-    <tr>
-      <td> <a href="new7month.html"><img src="thumbnails/7.jpg" alt="photo 7 thumbnail"width="115"></a> </td>
-
-      <td> <a href="new8month.html"><img src="thumbnails/8.jpg" alt="photo 8 thumbnail"width="115"></a> </td>
-
-      <td> <a href="new9month.html"><img src="thumbnails/9.jpg" alt="photo 9 thumbnail"width="115"></a> </td>
-
-      <td> <a href="new10month.html"><img src="thumbnails/10.jpg" alt="photo 10 thumbnail"width="115"></a> </td>
-
-      <td> <a href="new11month.html"><img src="thumbnails/11.jpg" alt="photo 11 thumbnail"width="115"></a> </td>
-
-      <td> <a href="new12month.html"><img src="thumbnails/12.jpg" alt="photo 12 thumbnail"width="115"></a> </td>
-
-    </tr>
-
-  </table>
