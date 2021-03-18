@@ -1,0 +1,36 @@
+body{
+  font-family: Verdana;
+  color:#F0FFFF; background-color: #7FFFD4 ;
+}
+
+
+h1{
+
+  color:#00BFFF;   text-shadow: 2px 2px 5px darkblue;
+
+}
+p {
+  border: 2px solid green; padding: 30px;
+}
+
+div {
+  width: 70px;
+  height: 300px;
+  border: 1px solid #c3c3c3;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+}
+div {
+  animation-name: mymove;
+}
+
+img:hover {
+  opacity: 0.5; border-radius: 8px;
+}
+#example2 {
+  border: 10px dotted black;
+  padding: 15px;
+  background: lightblue;
+  background-clip: padding-box;
+}
