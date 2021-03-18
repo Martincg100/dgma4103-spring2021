@@ -26,5 +26,10 @@ div {
 }
 
 img:hover {
-  opacity: 1.0; border-radius: 8px; -webkit-box-reflect: below;
+  opacity: 1.0; border-radius: 8px;
 }
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
