@@ -4,9 +4,9 @@ body{
 }
 
 
-h1{
+h1, h2, h3{
 
-  color:#bafff7 ;
+  color:#bafff7 ;   text-shadow: 2px 2px 5px lightblue;
 
 }
 p {
