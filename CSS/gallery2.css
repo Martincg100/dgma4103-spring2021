@@ -1,5 +1,5 @@
 body{
-  font-family: Verdana; text-shadow: purple;
+  font-family: Verdana; text-shadow: purple; background-color: lightpink; color: blue 
 }
 
 
@@ -28,7 +28,7 @@ img:hover {
   opacity: 0.5; border-radius: 8px;
 }
 
-#grad1 {
+grad1 {
   height: 200px;
   background-color: red; /* For browsers that do not support gradients */
   background-image: linear-gradient(blue, green);
